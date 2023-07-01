@@ -18,6 +18,15 @@
 - 💼 &nbsp; Always reading and learning more about mobile development and UI/UX best practices
 - 👨🏻‍💻 &nbsp; I'm also a Freelancer, Father to one of each, Artist 
 
+
+## 🛠 &nbsp;Tech Stack
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 📱 &nbsp;
+  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+  ![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=ios)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 <div align="center">
 
 You have finally discovered my Github profile. <br>
