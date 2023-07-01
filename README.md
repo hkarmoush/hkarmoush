@@ -29,6 +29,11 @@
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
   ![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=ios)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=bootstrap&logoColor=1572B6)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 <div align="center">
 
 You have finally discovered my Github profile. <br>
