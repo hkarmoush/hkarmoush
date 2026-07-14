@@ -1,24 +1,38 @@
 <div align="center">
-  <h2> Heyy, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
+  <a href="https://github.com/hkarmoush">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hasan+Armoush;Lead+Mobile+Engineer+%40+5Y+Technology;System+Design+%26+Architecture+Nerd;Flutter+%26+SwiftUI+Craftsman;Father.+Freelancer.+Artist." alt="Typing SVG" />
+  </a>
 </div>
-<h3> Hey there👋! I'm Hasan Armoush</h3>
-<h2> Lead Mobile Engineer @ 5Y Technology | System Design Enthusiast </h2>
 
-## 👨🏻‍💻 &nbsp;About Me 
+## 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; I think about scale, with a high focus on people's management, which I enjoy immensely.
-- 🎓 &nbsp; Studied Computer Engineering at three universities across three different countries and dropped out each time, I guess I'm a bad student after all.
-- 💼 &nbsp; Always reading and learning more about mobile development, architecture, and UI/UX best practices.
-- 👨🏻‍💻 &nbsp; I'm also a Freelancer, Father to one of each, Artist.
+I care a lot about scale — not just of systems, but of teams. Helping people grow is honestly the part of the job I enjoy most.
+
+I studied Computer Engineering at three universities in three different countries, and dropped out of all three. Make of that what you will — I like to think the classroom was just never where I learned best.
+
+Most of my real education has come from building things and reading way too much about mobile architecture and UI/UX along the way.
+
+Outside of work: I freelance, I'm a father (to one of each), and I paint/draw whenever I get the chance.
 
 ## 🧠 &nbsp;What I Focus On
-- 🏗️ &nbsp; System Design & architecture — designing mobile systems that scale cleanly as teams and codebases grow.
-- 🎥 &nbsp; Extensive experience with Video on Demand platforms, focusing on delivering seamless streaming experiences.
-- 🛠 &nbsp; Proficient in both Flutter and SwiftUI for mobile development.
-- ⚙️ &nbsp; Strong advocate for architecture and adherence to SOLID principles, ensuring scalable and maintainable codebases.
-- 🧑‍🤝‍🧑 &nbsp; Leading mobile engineering teams, with an emphasis on mentorship and people management.
+- 🏗️ &nbsp; Designing mobile systems that hold up as teams and codebases grow — built for where the product is heading, not just where it is today.
+- 🎥 &nbsp; Years spent in Video on Demand, obsessing over the small details that make streaming actually feel smooth.
+- 🛠 &nbsp; Flutter and SwiftUI are my daily tools, whichever the project calls for.
+- ⚙️ &nbsp; A firm believer in SOLID principles — not as dogma, but because untangling bad architecture later is nobody's idea of fun.
+- 🧑‍🤝‍🧑 &nbsp; Leading mobile teams, mostly by trying to be the mentor I wish I'd had earlier on.
 
 ## 🛠 &nbsp;Tech Stack
+
+**Where I spend most of my time** (self-rated, because someone has to be)
+
+```
+Flutter          ████████░░  80%
+SwiftUI          ███████░░░  70%
+System Design    █████████░  90%
+Dart             ████████░░  80%
+Swift            ███████░░░  70%
+```
+
 - 📱 &nbsp;Mobile
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
   ![SwiftUI](https://img.shields.io/badge/-SwiftUI-333333?style=flat&logo=swift)
@@ -47,6 +61,18 @@ You can also use the **Sponsor** button at the top of this repo, or check [CONTR
   <img src="https://github-readme-stats.vercel.app/api?username=hkarmoush&show_icons=true&theme=dark&count_private=true" alt="Hasan's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkarmoush&theme=dark" alt="Hasan's GitHub Streak" />
   <img src="https://activity-graph.herokuapp.com/graph?username=hkarmoush&theme=github" alt="Hasan's GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hkarmoush&theme=darkhub&no-frame=true&row=1&column=6" alt="Hasan's GitHub Trophies" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hkarmoush/hkarmoush/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hkarmoush/hkarmoush/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/hkarmoush/hkarmoush/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <div align="center">
