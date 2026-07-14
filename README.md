@@ -58,13 +58,9 @@ You can also use the **Sponsor** button at the top of this repo, or check [CONTR
 ## 📊 &nbsp;GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hkarmoush&show_icons=true&theme=dark&count_private=true" alt="Hasan's GitHub Stats" />
+  <img src="./profile/stats.svg" alt="Hasan's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkarmoush&theme=dark" alt="Hasan's GitHub Streak" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=hkarmoush&theme=github" alt="Hasan's GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hkarmoush&theme=darkhub&no-frame=true&row=1&column=6" alt="Hasan's GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hkarmoush&theme=github-compact" alt="Hasan's GitHub Activity Graph" />
 </p>
 
 <p align="center">
