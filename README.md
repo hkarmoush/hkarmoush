@@ -22,22 +22,20 @@ Outside of work: I freelance, I'm a father (to one of each), and I paint/draw wh
 - 🧑‍🤝‍🧑 &nbsp; Leading mobile teams, mostly by trying to be the mentor I wish I'd had earlier on.
 - 🌐 &nbsp; Contributing to open-source ecosystems that I believe in — shipping fixes and features that benefit the community.
 
-## 🌐 &nbsp;Open Source Contributions
+## 🌐 &nbsp;Open Source
 
-I actively contribute to major open-source projects shaping the mobile and language ecosystems:
+Most of my open-source time goes to **[Firefox iOS](https://github.com/mozilla-mobile/firefox-ios)** — crash fixes, Redux state architecture, and paying down technical debt in the tab and bookmarks layers. A few things I've landed there:
 
-**Core Projects:**
-- 🦊 &nbsp;[**Firefox iOS**](https://github.com/mozilla-mobile/firefox-ios) — Mobile browser development
-- 🎯 &nbsp;[**Flutter**](https://github.com/flutter/flutter) — Cross-platform mobile framework
-- 🎯 &nbsp;[**Dart SDK**](https://github.com/dart-lang/sdk) — Language tooling & static analysis improvements
-- 🔧 &nbsp;[**Dart Tools**](https://github.com/dart-lang/tools) — Developer tools and CLI improvements
+- **[Logins] Fix crash from concurrent `addLogin`/`updateLogin`/`verifyLogins` calls** ([#34973](https://github.com/mozilla-mobile/firefox-ios/pull/34973))
+- **[Redux] Adopt the `@Copyable` macro** across `TabTrayState`, `RemoteTabsPanelState`, and `TabPeekState` ([#34838](https://github.com/mozilla-mobile/firefox-ios/pull/34838), [#34762](https://github.com/mozilla-mobile/firefox-ios/pull/34762), [#34744](https://github.com/mozilla-mobile/firefox-ios/pull/34744))
+- **[Tab Tray] Explicitly unsubscribe from the Redux store on teardown** ([#35123](https://github.com/mozilla-mobile/firefox-ios/pull/35123))
+- **Reader mode navigation moved onto `NavigationBrowserAction`** ([#35319](https://github.com/mozilla-mobile/firefox-ios/pull/35319))
 
-**Other Contributions:**
-- 📱 &nbsp;[**Signal iOS**](https://github.com/signalapp/Signal-iOS) — Privacy-focused secure messaging
-- 📋 &nbsp;[**AppFlowy**](https://github.com/AppFlowy-IO/AppFlowy) — Open-source productivity workspace
-- 📺 &nbsp;[**IINA**](https://github.com/iina/iina) — Modern video player
+Elsewhere on Apple platforms, I've landed fixes in [**Brave iOS**](https://github.com/brave/brave-ios), the [**CodeEdit**](https://github.com/CodeEditApp/CodeEdit) macOS editor, and [**IINA**](https://github.com/iina/iina) (PiP sizing on full-screen transitions).
 
-**2026 Activity:** 142 contributions • 68% pull requests • Code reviewer on ecosystem projects
+On the **Dart side**, I contribute to [`dart-lang/tools`](https://github.com/dart-lang/tools) — multiple superclass constraints for `code_builder` mixins, and setext heading precedence in the `markdown` package — with more in review across the toolchain and the [Dart SDK](https://github.com/dart-lang/sdk) analysis server.
+
+→ &nbsp;Browse everything I've [**opened**](https://github.com/search?q=author%3Ahkarmoush+is%3Apr&type=pullrequests) or had [**merged**](https://github.com/search?q=author%3Ahkarmoush+is%3Apr+is%3Amerged&type=pullrequests) across public repos.
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -66,15 +64,6 @@ Tooling & CLI    ██████░░░░  60%
   ![CodeMagic](https://img.shields.io/badge/-CodeMagic-333333?style=flat&logo=codemagic)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=Jenkins)
 
-## 🎯 &nbsp;Notable Contributions
-
-Recent pull requests and fixes that shaped the ecosystem:
-
-- **[Dart SDK](https://github.com/dart-lang/sdk)** — Fix blank-line placement in sort_constructors_first quick-fix (+162 −7 lines, 12 comments)
-- **[Firefox iOS](https://github.com/mozilla-mobile/firefox-ios)** — Multiple commits improving mobile browser stability and performance
-- **[Flutter Ecosystem](https://github.com/flutter/flutter)** — Framework enhancements and package improvements
-- Open-source tooling: [VSCode Markdown Language Server](https://github.com/hkarmoush/vscode-markdown-languageserver) (TypeScript) and [Tools](https://github.com/hkarmoush/tools) (Dart)
-
 ## ☕ &nbsp;Support Me
 If any of my work has been useful to you, consider supporting it:
   <p align="center">
@@ -87,7 +76,7 @@ You can also use the **Sponsor** button at the top of this repo, or check [CONTR
 
 <p align="center">
   <img src="./profile/stats.svg" alt="Hasan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkarmoush&theme=dark" alt="Hasan's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=hkarmoush&theme=dark" alt="Hasan's GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hkarmoush&theme=github-compact" alt="Hasan's GitHub Activity Graph" />
 </p>
 
