@@ -10,7 +10,7 @@ I care a lot about scale — not just of systems, but of teams. Helping people g
 
 I studied Computer Engineering at three universities in three different countries, and dropped out of all three. Make of that what you will — I like to think the classroom was just never where I learned best.
 
-Most of my real education has come from building things and reading way too much about mobile architecture and UI/UX along the way.
+Most of my real education has come from building things and reading way too much about mobile architecture and UI/UX along the way. I'm deeply invested in the open-source community, regularly contributing to projects that shape the mobile and Dart ecosystem.
 
 Outside of work: I freelance, I'm a father (to one of each), and I paint/draw whenever I get the chance.
 
@@ -20,17 +20,36 @@ Outside of work: I freelance, I'm a father (to one of each), and I paint/draw wh
 - 🛠 &nbsp; Flutter and SwiftUI are my daily tools, whichever the project calls for.
 - ⚙️ &nbsp; A firm believer in SOLID principles — not as dogma, but because untangling bad architecture later is nobody's idea of fun.
 - 🧑‍🤝‍🧑 &nbsp; Leading mobile teams, mostly by trying to be the mentor I wish I'd had earlier on.
+- 🌐 &nbsp; Contributing to open-source ecosystems that I believe in — shipping fixes and features that benefit the community.
+
+## 🌐 &nbsp;Open Source Contributions
+
+I actively contribute to major open-source projects shaping the mobile and language ecosystems:
+
+**Core Projects:**
+- 🦊 &nbsp;[**Firefox iOS**](https://github.com/mozilla-mobile/firefox-ios) — Mobile browser development
+- 🎯 &nbsp;[**Flutter**](https://github.com/flutter/flutter) — Cross-platform mobile framework
+- 🎯 &nbsp;[**Dart SDK**](https://github.com/dart-lang/sdk) — Language tooling & static analysis improvements
+- 🔧 &nbsp;[**Dart Tools**](https://github.com/dart-lang/tools) — Developer tools and CLI improvements
+
+**Other Contributions:**
+- 📱 &nbsp;[**Signal iOS**](https://github.com/signalapp/Signal-iOS) — Privacy-focused secure messaging
+- 📋 &nbsp;[**AppFlowy**](https://github.com/AppFlowy-IO/AppFlowy) — Open-source productivity workspace
+- 📺 &nbsp;[**IINA**](https://github.com/iina/iina) — Modern video player
+
+**2026 Activity:** 142 contributions • 68% pull requests • Code reviewer on ecosystem projects
 
 ## 🛠 &nbsp;Tech Stack
 
 **Where I spend most of my time** (self-rated, because someone has to be)
 
 ```
-Flutter          ████████░░  80%
-SwiftUI          ███████░░░  70%
 System Design    █████████░  90%
+Flutter          ████████░░  80%
 Dart             ████████░░  80%
+SwiftUI          ███████░░░  70%
 Swift            ███████░░░  70%
+Tooling & CLI    ██████░░░░  60%
 ```
 
 - 📱 &nbsp;Mobile
@@ -46,6 +65,15 @@ Swift            ███████░░░  70%
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![CodeMagic](https://img.shields.io/badge/-CodeMagic-333333?style=flat&logo=codemagic)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=Jenkins)
+
+## 🎯 &nbsp;Notable Contributions
+
+Recent pull requests and fixes that shaped the ecosystem:
+
+- **[Dart SDK](https://github.com/dart-lang/sdk)** — Fix blank-line placement in sort_constructors_first quick-fix (+162 −7 lines, 12 comments)
+- **[Firefox iOS](https://github.com/mozilla-mobile/firefox-ios)** — Multiple commits improving mobile browser stability and performance
+- **[Flutter Ecosystem](https://github.com/flutter/flutter)** — Framework enhancements and package improvements
+- Open-source tooling: [VSCode Markdown Language Server](https://github.com/hkarmoush/vscode-markdown-languageserver) (TypeScript) and [Tools](https://github.com/hkarmoush/tools) (Dart)
 
 ## ☕ &nbsp;Support Me
 If any of my work has been useful to you, consider supporting it:
@@ -69,6 +97,16 @@ You can also use the **Sponsor** button at the top of this repo, or check [CONTR
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hkarmoush/hkarmoush/output/github-contribution-grid-snake.svg" />
     <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/hkarmoush/hkarmoush/output/github-contribution-grid-snake.svg" />
   </picture>
+</p>
+
+## 🏆 &nbsp;Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="YOLO" width="100" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark x2" width="100" />
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" alt="Pair Extraordinaire" width="100" />
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw" width="100" />
+  <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" alt="Arctic Code Vault Contributor" width="100" />
 </p>
 
 <div align="center">
