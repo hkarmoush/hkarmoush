@@ -16,7 +16,7 @@
 
 - 📱 &nbsp; Mobile engineer with 8+ years shipping production iOS and Flutter apps across video streaming, fintech, real estate, and enterprise analytics.
 - 🧠 &nbsp; Native iOS background in Swift/SwiftUI, with deep Flutter expertise grounded in Clean Architecture, BLoC, and TDD.
-- 🤖 &nbsp; Currently leading two mobile teams delivering AI-powered analytics to 40+ enterprise clients, and designing AI agents (Claude API, Claude Code) that automate documentation, code review, testing, and release workflows.
+- 🤖 &nbsp; Currently leading two mobile teams delivering AI-powered analytics to 40+ enterprise clients, and designing AI agents that automate documentation, code review, testing, and release workflows.
 - 🎓 &nbsp; Studied Computer Engineering at three universities across three different countries and dropped out each time, I guess I'm a bad student after all.
 - 👨🏻‍💻 &nbsp; Also a Freelancer, Father to one of each, Artist.
 
@@ -64,8 +64,6 @@ I regularly send fixes upstream to projects I actually use. Here's what's landed
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 - 🤖 &nbsp;
-  ![Claude](https://img.shields.io/badge/-Claude%20API-333333?style=flat&logo=anthropic)
-  ![Claude Code](https://img.shields.io/badge/-Claude%20Code-333333?style=flat&logo=anthropic)
   ![Cursor](https://img.shields.io/badge/-Cursor-333333?style=flat&logo=cursor)
 
 ## ☕ &nbsp;Support Me
