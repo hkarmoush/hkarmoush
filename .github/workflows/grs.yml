@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   build:
@@ -32,3 +33,9 @@ jobs:
           git add profile/stats.svg
           git commit -m "Update README stats card" || exit 0
           git push
+
+      - name: Keep scheduled runs alive
+        if: github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/grs.yml/enable"
