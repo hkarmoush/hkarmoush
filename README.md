@@ -43,6 +43,8 @@ Outside of work: I freelance, I'm a father (to one of each), and I paint/draw wh
 
 **Dart & Flutter:** in [`dart-lang/tools`](https://github.com/dart-lang/tools) I've landed multiple superclass constraints and cascade helpers for `code_builder`, setext heading precedence and nested-list fixes in `markdown`, `strictProtocolChecks` for `json_rpc_2`, and `PathDependency` constraints in `pubspec_parse`. I also cut memory use when saving Performance data in [Flutter DevTools](https://github.com/flutter/devtools) ([#10034](https://github.com/flutter/devtools/pull/10034)), with more in review across the toolchain and the [Dart SDK](https://github.com/dart-lang/sdk) analysis server.
 
+I've also sent fixes to [Flutter](https://github.com/flutter/flutter) (widgets and tooling), [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy), and [`sentry-dart`](https://github.com/getsentry/sentry-dart), most still in review.
+
 Earlier on Apple platforms: fixes in [**IINA**](https://github.com/iina/iina) (PiP sizing on full-screen transitions), [**CodeEdit**](https://github.com/CodeEditApp/CodeEdit), and Brave iOS.
 
 → &nbsp;Browse everything I've [**opened**](https://github.com/search?q=author%3Ahkarmoush+is%3Apr&type=pullrequests) or had [**merged**](https://github.com/search?q=author%3Ahkarmoush+is%3Apr+is%3Amerged&type=pullrequests) across public repos.
