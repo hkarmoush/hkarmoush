@@ -28,6 +28,17 @@ Outside of work: I freelance, I'm a father (to one of each), and I paint/draw wh
 
 ## 🌐 &nbsp;Open Source
 
+<!-- OSS-BADGES:START -->
+<p align="center">
+  <a href="https://github.com/search?q=author%3Ahkarmoush%20is%3Apr%20is%3Amerged%20repo%3Agenkit-ai%2Fgenkit&type=pullrequests"><img src="https://img.shields.io/badge/Genkit-2%20merged-58A6FF?style=for-the-badge&logo=firebase&logoColor=white&labelColor=333333" alt="Genkit: 2 merged" /></a>
+  <a href="https://github.com/search?q=author%3Ahkarmoush%20is%3Apr%20is%3Amerged%20repo%3Amozilla-mobile%2Ffirefox-ios&type=pullrequests"><img src="https://img.shields.io/badge/Firefox%20iOS-12%20merged-58A6FF?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=333333" alt="Firefox iOS: 12 merged" /></a>
+  <a href="https://github.com/search?q=author%3Ahkarmoush%20is%3Apr%20is%3Amerged%20repo%3Adart-lang%2Ftools&type=pullrequests"><img src="https://img.shields.io/badge/dart--lang%2Ftools-6%20merged-58A6FF?style=for-the-badge&logo=dart&logoColor=white&labelColor=333333" alt="dart-lang/tools: 6 merged" /></a>
+  <a href="https://github.com/search?q=author%3Ahkarmoush%20is%3Apr%20is%3Amerged%20repo%3Aflutter%2Fdevtools&type=pullrequests"><img src="https://img.shields.io/badge/Flutter%20DevTools-1%20merged-58A6FF?style=for-the-badge&logo=flutter&logoColor=white&labelColor=333333" alt="Flutter DevTools: 1 merged" /></a>
+  <a href="https://github.com/search?q=author%3Ahkarmoush%20is%3Apr%20is%3Amerged%20repo%3ACodeEditApp%2FCodeEdit&type=pullrequests"><img src="https://img.shields.io/badge/CodeEdit-2%20merged-58A6FF?style=for-the-badge&logo=swift&logoColor=white&labelColor=333333" alt="CodeEdit: 2 merged" /></a>
+  <a href="https://github.com/search?q=author%3Ahkarmoush%20is%3Apr%20is%3Amerged%20repo%3Aiina%2Fiina&type=pullrequests"><img src="https://img.shields.io/badge/IINA-1%20merged-58A6FF?style=for-the-badge&logo=apple&logoColor=white&labelColor=333333" alt="IINA: 1 merged" /></a>
+</p>
+<!-- OSS-BADGES:END -->
+
 **AI: [Genkit](https://github.com/genkit-ai/genkit)** — I work on model-provider plugins and the agent/session layer, across the JS, Python and Go SDKs:
 
 - **Anthropic plugin:** send back empty signed thinking blocks ([#6838](https://github.com/genkit-ai/genkit/pull/6838), merged)
